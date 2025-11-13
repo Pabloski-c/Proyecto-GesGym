@@ -8,7 +8,7 @@ Este proyecto fue desarrollado como trabajo final para la materia **Programació
 
 ## 📋 Descripción
 
-**GesGym** es un sistema de gestión de gimnasios que permite administrar la información de los alumnos, sus rutinas, y pagos. El proyecto fue desarrollado en C++ utilizando el framework **wxWidgets** para la interfaz gráfica.
+**GesGym** es un sistema de gestión de gimnasios que permite administrar la información de los alumnos y pagos. El proyecto fue desarrollado en C++ utilizando el framework **wxWidgets** para la interfaz gráfica.
 
 ### Características Principales
 
