@@ -46,7 +46,7 @@ El proyecto fue desarrollado y compilado utilizando el IDE ZinjaI.
 ## 🧑‍💻 Autores
 
 * **Pablo Torres Lell** - [Pabloski-c](https://github.com/Pabloski-c)
-* **Nicolás** - *[(NsGiz)](https://github.com/NsGiz)*
+* **Nicolás** - [NsGiz](https://github.com/NsGiz)
 
 Proyecto desarrollado durante el año **2024**.
 
